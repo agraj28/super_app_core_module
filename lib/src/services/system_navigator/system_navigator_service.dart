@@ -1,4 +1,5 @@
 import 'dart:async';
+import 'package:super_app_core_module/src/core.dart';
 import 'package:super_app_framework/super_app_framework.dart';
 import 'package:flutter/material.dart';
 import 'package:page_transition/page_transition.dart';
